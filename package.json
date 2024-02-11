@@ -7,7 +7,7 @@
     "start": "nodemon backend/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ryanharrishtx@gmail.com <ryanharrishtx@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
@@ -20,5 +20,6 @@
     "mongoose": "^5.12.9",
     "nodemon": "^3.0.3",
     "react-notification-badge": "^1.5.1"
-  }
+  },
+  "repository": "git@github.com:ryanharrishtx/grapevine-chat-app.git"
 }
